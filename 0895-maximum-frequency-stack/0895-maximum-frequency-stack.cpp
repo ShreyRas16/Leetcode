@@ -1,7 +1,7 @@
 class FreqStack {
 public:
-    map<int,int> mp;
-    map<int,stack<int>> order;
+    unordered_map<int,int> mp;
+    unordered_map<int,stack<int>> order;
     int large=0;
     FreqStack() {
         
@@ -17,9 +17,7 @@ public:
         int x=order[large].top();
         order[large].pop();
         mp[x]--;
-        if(order[large].empty()){
-            large--;
-        }
+        if(order[large].empty()) large--;
         return x;
     }
 };
