@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyRas16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ShreyRas16/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Stack
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyRas16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyRas16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
