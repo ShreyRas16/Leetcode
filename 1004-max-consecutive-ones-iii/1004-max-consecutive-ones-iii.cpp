@@ -4,15 +4,15 @@ public:
         int maxi=0;
         int size=0;
         int zero=0;
-        vector<int> count;
+        deque<int> count;
         if(k!=0){
         for(int i=0;i<nums.size();i++){
             if(nums[i]==1) size++;
             else{
                 count.push_back(i);
                 if(zero==k) {
-                    size=count[count.size()-1]-count[0];
-                    count.erase(count.begin());
+                    size=count.back()-count.front();
+                    count.pop_front();
                 }
                 else{
                     size++;
