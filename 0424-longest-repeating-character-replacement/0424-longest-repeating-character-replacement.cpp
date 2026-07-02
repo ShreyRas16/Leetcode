@@ -11,7 +11,6 @@ public:
             maxf=max(maxf,mp[s[r]-'A']);
             if((r-l+1)-maxf > k){
                 mp[s[l]-'A']--;
-                maxf=0;
                 l++;
             }
             else ans=max(ans,r-l+1);
