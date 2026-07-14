@@ -24,7 +24,7 @@ public:
             temp.push_back(x);
             mp[x]--;
             if(k<groupSize){
-                if(qp.top()==x || qp.top()==x+1) k++;
+                if(!qp.empty() && (qp.top()==x || qp.top()==x+1)) k++;
                 else return false;
             }
             else if(k==groupSize){
