@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/ShreyRas16/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/ShreyRas16/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShreyRas16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/ShreyRas16/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShreyRas16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShreyRas16/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
