@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyRas16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShreyRas16/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyRas16/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ShreyRas16/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyRas16/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyRas16/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
