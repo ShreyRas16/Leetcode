@@ -2,14 +2,12 @@ class MedianFinder {
 public:
     priority_queue<int,vector<int>,greater<int>> qp;
     priority_queue<int> pq;
-    vector<int> store;
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        store.push_back(num);
-        if(store.size()==1) pq.push(num);
+        if(pq.size()==0 && qp.size()==0) pq.push(num);
         else{
             if(num>pq.top()) qp.push(num);
             else pq.push(num);
