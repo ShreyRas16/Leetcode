@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyRas16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyRas16/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShreyRas16/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ShreyRas16/Leetcode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
 |  |
 | ------- |
