@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyRas16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShreyRas16/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyRas16/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ShreyRas16/Leetcode/tree/master/0460-lfu-cache) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShreyRas16/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
@@ -105,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyRas16/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShreyRas16/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ShreyRas16/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShreyRas16/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ShreyRas16/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShreyRas16/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -126,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShreyRas16/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
