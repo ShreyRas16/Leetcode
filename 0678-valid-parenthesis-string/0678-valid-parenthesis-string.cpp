@@ -15,7 +15,7 @@ public:
         }
         int currl=place.size()-1;
         int first=p.size()-1;
-        while(first>=0 && currl>curr && place[currl]>p[first]){
+        while(first>=0 && currl>=curr && place[currl]>p[first]){
             currl--;
             first--;
         }
