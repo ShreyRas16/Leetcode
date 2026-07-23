@@ -20,7 +20,7 @@ public:
         pair<bool,bool> checkl=check(root->left,p,q);
         if((checkr.first || checkl.first || checkp) && (checkr.second || checkl.second || checkq)){
             temp=root;
-            if(temp!=NULL) return {false,false};
+            return {false,false};
         }
         return {checkr.first || checkl.first || checkp,checkr.second || checkl.second || checkq};
     }
