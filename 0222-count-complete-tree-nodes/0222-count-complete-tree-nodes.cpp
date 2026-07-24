@@ -19,7 +19,6 @@ public:
         if(root==NULL) return 0;
         return 1+righth(root->right);
     }
-    int sum=0;
     int count(TreeNode* root){
         if(root==NULL) return 0;
         if(lefth(root)==righth(root)) return (1<<lefth(root))-1;
