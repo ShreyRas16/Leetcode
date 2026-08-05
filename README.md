@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/ShreyRas16/Leetcode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyRas16/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ShreyRas16/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ShreyRas16/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShreyRas16/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyRas16/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShreyRas16/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShreyRas16/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShreyRas16/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ShreyRas16/Leetcode/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
