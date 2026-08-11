@@ -7,11 +7,11 @@ public:
         q.push({{0,0},1});
         vector<vector<bool>> visited(grid.size(),vector<bool>(grid.size(),false));
         visited[0][0]=true;
+        int dx[]={-1,-1,-1,0,0,1,1,1};
+        int dy[]={-1,0,1,-1,1,-1,0,1};
         while(!q.empty()){
             pair<pair<int,int>,int> temp=q.front();
             q.pop();
-            int dx[]={-1,-1,-1,0,0,1,1,1};
-            int dy[]={-1,0,1,-1,1,-1,0,1};
             for(int k=0;k<8;k++){
                 int ni=temp.first.first+dx[k];
                 int nj=temp.first.second+dy[k];
