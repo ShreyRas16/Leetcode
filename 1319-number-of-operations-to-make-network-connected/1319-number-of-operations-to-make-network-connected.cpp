@@ -1,27 +1,34 @@
 class Solution {
 public:
-    void dfs(int node,vector<vector<int>>& adj,vector<int>& visited){
-        visited[node]=1;
-        for(int i=0;i<adj[node].size();i++){
-            if(visited[adj[node][i]]==0){
-                dfs(adj[node][i],adj,visited);
+    class dis{
+        vector<int> parent;
+        public:
+        dis(int n){
+            parent.resize(n);
+            for(int i=0;i<parent.size();i++){
+                parent[i]=i;
             }
         }
-    }
+        int find(int node){
+            if(parent[node]==node) return node;
+            return parent[node]=find(parent[node]);
+        }
+        void uni(int x,int y){
+            int px=find(x);
+            int py=find(y);
+            if(px==py) return;
+            parent[px]=py;
+        }
+    };
     int makeConnected(int n, vector<vector<int>>& connections) {
         if(connections.size()<n-1) return -1;
-        vector<vector<int>> adj(n);
+        dis ds(n);
         for(int i=0;i<connections.size();i++){
-            adj[connections[i][0]].push_back(connections[i][1]);
-            adj[connections[i][1]].push_back(connections[i][0]);
+            ds.uni(connections[i][0],connections[i][1]);
         }
-        vector<int> visited(n,0);
         int ans=-1;
-        for(int i=0;i<adj.size();i++){
-            if(visited[i]==0){
-                ans++;
-                dfs(i,adj,visited);
-            }
+        for(int i=0;i<n;i++){
+            if(ds.find(i)==i) ans++;
         }
         return ans;
     }
