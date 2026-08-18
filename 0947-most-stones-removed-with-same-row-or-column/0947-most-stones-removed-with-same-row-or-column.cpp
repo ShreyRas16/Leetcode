@@ -21,15 +21,24 @@ public:
         }
     };
     int removeStones(vector<vector<int>>& stones) {
-        dist ds(stones.size());
+        int rows=0;
+        int cols=0;
         for(int i=0;i<stones.size();i++){
-            for(int j=i+1;j<stones.size();j++){
-                if(stones[i][0]==stones[j][0] || stones[i][1]==stones[j][1]) ds.uni(i,j);
-            }
+            rows=max(rows,stones[i][0]);
+            cols=max(cols,stones[i][1]);
+        }
+        dist ds(rows+cols+2);
+        unordered_map<int,int> mp;
+        for(int i=0;i<stones.size();i++){
+            int noder=stones[i][0];
+            int nodec=stones[i][1]+rows+1;
+            ds.uni(noder,nodec);
+            mp[noder]=1;
+            mp[nodec]=1;
         }
         int count=0;
-        for(int i=0;i<stones.size();i++){
-            if(ds.find(i)==i) count++;
+        for(auto it : mp){
+            if(ds.find(it.first)==it.first) count++;
         }
         return stones.size()-count;
     }
