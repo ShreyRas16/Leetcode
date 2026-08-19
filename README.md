@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyRas16/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/ShreyRas16/Leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyRas16/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/ShreyRas16/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyRas16/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ShreyRas16/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyRas16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ShreyRas16/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ShreyRas16/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShreyRas16/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShreyRas16/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ShreyRas16/Leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShreyRas16/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyRas16/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ShreyRas16/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShreyRas16/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShreyRas16/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShreyRas16/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyRas16/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShreyRas16/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ShreyRas16/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShreyRas16/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShreyRas16/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -400,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ShreyRas16/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ShreyRas16/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShreyRas16/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ShreyRas16/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ShreyRas16/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ShreyRas16/Leetcode/tree/master/1020-number-of-enclaves) |
