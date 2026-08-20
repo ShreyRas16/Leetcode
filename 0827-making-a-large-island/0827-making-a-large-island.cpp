@@ -19,7 +19,6 @@ public:
     };
     int largestIsland(vector<vector<int>>& grid) {
         dist ds(grid.size()*grid.size());
-        unordered_map<int,int> size;
         int dx[]={-1,1,0,0};
         int dy[]={0,0,-1,1};
         for(int i=0;i<grid.size();i++){
@@ -30,11 +29,12 @@ public:
                         int nj=j+dy[k];
                         if(ni>=0 && nj>=0 && ni<grid.size() && nj<grid.size() && grid[ni][nj]==1){
                             ds.uni(ni*grid.size()+nj,i*grid.size()+j);
-                        }
+                        } 
                     }
                 }
             }
         }
+        unordered_map<int,int> size;
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid.size();j++){
                 if(grid[i][j]==1){
@@ -47,16 +47,16 @@ public:
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid.size();j++){
                 if(grid[i][j]==0){
-                    found=true;
                     int curr=1;
                     unordered_map<int,bool> seen;
+                    found=true;
                     for(int k=0;k<4;k++){
                         int ni=i+dx[k];
                         int nj=j+dy[k];
                         if(ni>=0 && nj>=0 && ni<grid.size() && nj<grid.size() && grid[ni][nj]==1){
                             if(!seen[ds.find(ni*grid.size()+nj)]){
                                 curr=curr+size[ds.find(ni*grid.size()+nj)];
-                                seen[ds.find(ni*grid.size()+nj)]=true;;
+                                seen[ds.find(ni*grid.size()+nj)]=true;
                             }
                         }
                     }
