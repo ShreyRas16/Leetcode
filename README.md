@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShreyRas16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyRas16/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyRas16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyRas16/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ShreyRas16/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ShreyRas16/Leetcode/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
@@ -529,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/ShreyRas16/Leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
