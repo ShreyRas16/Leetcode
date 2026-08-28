@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyRas16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyRas16/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShreyRas16/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShreyRas16/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShreyRas16/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ShreyRas16/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
