@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyRas16/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/ShreyRas16/Leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/ShreyRas16/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyRas16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ShreyRas16/Leetcode/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShreyRas16/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyRas16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
