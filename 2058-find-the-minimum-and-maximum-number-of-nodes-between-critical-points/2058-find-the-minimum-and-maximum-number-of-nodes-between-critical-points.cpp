@@ -11,23 +11,34 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+        if(head->next==NULL) return{-1,-1};
+        if(head->next->next==NULL) return {-1,-1};
         ListNode* temp=head;
-        vector<int> arr;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }
-        if(arr.size()<3) return {-1,-1};
-        vector<int> other;
-        for(int i=1;i<arr.size()-1;i++){
-            if(arr[i]>arr[i-1] && arr[i]>arr[i+1]) other.push_back(i);
-            else if(arr[i]<arr[i-1] && arr[i]<arr[i+1]) other.push_back(i);   
-        }
-        if(other.size()==0 || other.size()==1) return {-1,-1};
+        ListNode* temp1=head->next;
+        ListNode* temp2=head->next->next;
+        int first=-1;
+        int last=-1;
+        int curr1=0;
+        int curr2=0;
         int minidist=INT_MAX;
-        for(int i=1;i<other.size();i++){
-            minidist=min(minidist,other[i]-other[i-1]);
+        int count=0;
+        while(temp2!=NULL){
+            count++;
+            if((temp1->val > temp->val && temp1->val > temp2->val) || (temp1->val < temp->val && temp1->val < temp2->val)){
+                if(first==-1) first=count;
+                last=count;
+                if(curr1==0) curr1=count;
+                else{
+                    curr2=curr1;
+                    curr1=count;
+                    minidist=min(minidist,curr1-curr2);
+                }
+            }
+            temp=temp1;
+            temp1=temp2;
+            temp2=temp2->next;
         }
-        return {minidist,other[other.size()-1]-other[0]};
+        if(first==last) return {-1,-1};
+        return {minidist,last-first};
     }
 };
