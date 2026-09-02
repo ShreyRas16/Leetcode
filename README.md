@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ShreyRas16/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyRas16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ShreyRas16/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShreyRas16/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyRas16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyRas16/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShreyRas16/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
