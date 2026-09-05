@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShreyRas16/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyRas16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShreyRas16/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ShreyRas16/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShreyRas16/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ShreyRas16/Leetcode/tree/master/0198-house-robber) |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShreyRas16/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShreyRas16/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
