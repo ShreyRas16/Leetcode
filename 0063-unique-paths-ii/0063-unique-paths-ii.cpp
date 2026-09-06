@@ -4,7 +4,7 @@ public:
         if(i<0 || j<0) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
         if(i==0 && j==0) return dp[i][j]=1;
-        if(obstacleGrid[i][j]==1) return dp[i][j]==0;
+        if(obstacleGrid[i][j]==1) return dp[i][j]=0;
         int up=0;
         int left=0;
         if(i>0) up=paths(obstacleGrid,dp,i-1,j);
