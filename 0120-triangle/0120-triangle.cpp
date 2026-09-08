@@ -11,9 +11,9 @@ public:
         return dp[i][j]=triangle[i][j]+min(bef,curr);
     }
     int minimumTotal(vector<vector<int>>& triangle) {
+        vector<vector<int>> dp(triangle.size(),vector<int>(triangle[triangle.size()-1].size(),-1));
         int mini=INT_MAX;
         for(int i=0;i<triangle[triangle.size()-1].size();i++){
-            vector<vector<int>> dp(triangle.size(),vector<int>(triangle[triangle.size()-1].size(),-1));
             mini=min(mini,sum(triangle,dp,triangle[triangle.size()-1].size()-1,i));
         }
         return mini;
