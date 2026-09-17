@@ -574,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShreyRas16/Leetcode/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/ShreyRas16/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
