@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ShreyRas16/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyRas16/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShreyRas16/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShreyRas16/Leetcode/tree/master/0057-insert-interval) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyRas16/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ShreyRas16/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShreyRas16/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyRas16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ShreyRas16/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyRas16/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShreyRas16/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0063-unique-paths-ii) |
