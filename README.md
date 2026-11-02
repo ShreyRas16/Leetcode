@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShreyRas16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/ShreyRas16/Leetcode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/ShreyRas16/Leetcode/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/ShreyRas16/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyRas16/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/ShreyRas16/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShreyRas16/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShreyRas16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShreyRas16/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ShreyRas16/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/ShreyRas16/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShreyRas16/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ShreyRas16/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/ShreyRas16/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ShreyRas16/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ShreyRas16/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ShreyRas16/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
